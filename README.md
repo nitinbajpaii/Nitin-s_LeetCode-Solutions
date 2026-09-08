@@ -352,6 +352,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0069-sqrtx) |
@@ -937,6 +938,7 @@ Happy Coding! 🚀
 | [0045-jump-game-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -1272,6 +1274,7 @@ Happy Coding! 🚀
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Prime Factorization
