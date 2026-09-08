@@ -735,6 +735,7 @@ Happy Coding! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -953,6 +954,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1395-count-number-of-teams](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -1088,6 +1090,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
