@@ -437,6 +437,7 @@ Happy Coding! 🚀
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
