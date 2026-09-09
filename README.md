@@ -43,6 +43,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -943,6 +944,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -978,6 +980,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
