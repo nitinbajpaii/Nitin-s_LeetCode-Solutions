@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0648-replace-words](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -599,6 +600,7 @@ Happy Coding! 🚀
 | [0215-kth-largest-element-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -783,6 +785,7 @@ Happy Coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -974,6 +977,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -1195,6 +1199,7 @@ Happy Coding! 🚀
 | [0617-merge-two-binary-trees](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1235,6 +1240,7 @@ Happy Coding! 🚀
 | [0617-merge-two-binary-trees](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1331,4 +1337,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
