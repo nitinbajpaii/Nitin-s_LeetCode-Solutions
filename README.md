@@ -637,6 +637,7 @@ Happy Coding! 🚀
 | [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -963,6 +964,7 @@ Happy Coding! 🚀
 | [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
@@ -1345,4 +1347,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 <!---LeetCode Topics End-->
