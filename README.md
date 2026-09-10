@@ -1018,6 +1018,7 @@ Happy Coding! 🚀
 | [0386-lexicographical-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -1193,6 +1194,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -1234,6 +1236,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -1262,6 +1265,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0617-merge-two-binary-trees) |
