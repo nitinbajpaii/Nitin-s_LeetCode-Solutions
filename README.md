@@ -700,6 +700,7 @@ Happy Coding! 🚀
 | [3227-vowels-game-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -799,6 +800,7 @@ Happy Coding! 🚀
 | [2390-removing-stars-from-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -910,6 +912,7 @@ Happy Coding! 🚀
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 ## Greedy
 | Problem Name | Difficulty |
