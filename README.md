@@ -636,6 +636,7 @@ Happy Coding! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
+| [0516-longest-palindromic-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -968,6 +969,7 @@ Happy Coding! 🚀
 | [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
