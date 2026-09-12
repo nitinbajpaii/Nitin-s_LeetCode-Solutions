@@ -227,6 +227,7 @@ Happy Coding! 🚀
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
@@ -342,6 +343,7 @@ Happy Coding! 🚀
 | [3731-find-missing-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 | [3941-password-strength](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3941-password-strength/) | Medium |
 | [3945-digit-frequency-score](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
@@ -915,6 +917,7 @@ Happy Coding! 🚀
 | [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 ## Greedy
 | Problem Name | Difficulty |
