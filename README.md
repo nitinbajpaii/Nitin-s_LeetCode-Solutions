@@ -1044,6 +1044,7 @@ Happy Coding! 🚀
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1224,6 +1225,7 @@ Happy Coding! 🚀
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -1267,6 +1269,7 @@ Happy Coding! 🚀
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -1292,6 +1295,7 @@ Happy Coding! 🚀
 | [0662-maximum-width-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
