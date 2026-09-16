@@ -395,6 +395,7 @@ Happy Coding! 🚀
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -944,6 +945,7 @@ Happy Coding! 🚀
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
