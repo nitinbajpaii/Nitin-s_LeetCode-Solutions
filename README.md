@@ -468,6 +468,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -528,6 +529,7 @@ Happy Coding! 🚀
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -548,6 +550,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0231-power-of-two) |
@@ -788,6 +791,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
