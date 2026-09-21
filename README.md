@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1051-height-checker](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -989,6 +990,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
@@ -1383,4 +1385,5 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 <!---LeetCode Topics End-->
