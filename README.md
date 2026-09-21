@@ -655,6 +655,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0686-repeated-string-match) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0771-jewels-and-stones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -988,6 +989,7 @@ Happy Coding! 🚀
 | [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
@@ -1385,5 +1387,6 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 <!---LeetCode Topics End-->
