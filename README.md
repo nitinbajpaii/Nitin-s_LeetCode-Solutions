@@ -187,6 +187,7 @@ Happy Coding! 🚀
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2418-sort-the-people/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -856,6 +857,7 @@ Happy Coding! 🚀
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
