@@ -229,6 +229,7 @@ Happy Coding! 🚀
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3819-rotate-non-negative-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -884,6 +885,7 @@ Happy Coding! 🚀
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3819-rotate-non-negative-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3894-traffic-signal-color](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
