@@ -542,6 +542,7 @@ Happy Coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
