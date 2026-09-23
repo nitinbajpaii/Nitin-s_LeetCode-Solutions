@@ -113,6 +113,7 @@ Happy Coding! 🚀
 | [0648-replace-words](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
@@ -590,6 +591,7 @@ Happy Coding! 🚀
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -996,6 +998,7 @@ Happy Coding! 🚀
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
@@ -1191,6 +1194,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -1395,4 +1399,12 @@ Happy Coding! 🚀
 | [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
