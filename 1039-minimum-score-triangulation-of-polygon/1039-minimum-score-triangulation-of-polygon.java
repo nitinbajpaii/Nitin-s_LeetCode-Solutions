@@ -10,7 +10,7 @@ class Solution {
         return solve(values,i,j,dp);
     }
     public int solve(int[] values,int i,int j,int[][]dp){
-        if(j-i<2){
+        if(i+1==j){
             return 0;
         }
         if(dp[i][j]!=-1){
