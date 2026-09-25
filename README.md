@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -993,6 +994,7 @@ Happy Coding! 🚀
 | [0152-maximum-product-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0312-burst-balloons](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0338-counting-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
