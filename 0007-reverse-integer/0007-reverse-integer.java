@@ -8,7 +8,6 @@ class Solution {
             if (reversed > Integer.MAX_VALUE || reversed < Integer.MIN_VALUE) {
                 return 0;
             }
-            
             x /= 10;
         }
         
