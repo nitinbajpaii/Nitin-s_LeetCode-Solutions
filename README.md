@@ -150,6 +150,7 @@ Happy Coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1629-slowest-key](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -774,6 +775,7 @@ Happy Coding! 🚀
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -1014,6 +1016,7 @@ Happy Coding! 🚀
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1395-count-number-of-teams](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Monotonic Stack
