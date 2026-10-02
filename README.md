@@ -379,6 +379,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0268-missing-number) |
@@ -564,6 +565,7 @@ Happy Coding! 🚀
 | [0206-reverse-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0326-power-of-three](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -642,6 +644,7 @@ Happy Coding! 🚀
 | [0168-excel-sheet-column-title](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -996,6 +999,7 @@ Happy Coding! 🚀
 | [0152-maximum-product-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0312-burst-balloons](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0338-counting-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
@@ -1158,6 +1162,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
@@ -1372,6 +1377,7 @@ Happy Coding! 🚀
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
