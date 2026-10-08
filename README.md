@@ -642,6 +642,7 @@ Happy Coding! 🚀
 | [0097-interleaving-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -998,6 +999,7 @@ Happy Coding! 🚀
 | [0119-pascals-triangle-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0213-house-robber-ii/) | Medium |
