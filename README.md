@@ -134,6 +134,7 @@ Happy Coding! 🚀
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1051-height-checker](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -1020,6 +1021,7 @@ Happy Coding! 🚀
 | [0931-minimum-falling-path-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
