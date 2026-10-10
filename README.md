@@ -217,6 +217,7 @@ Happy Coding! 🚀
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3011-find-if-array-can-be-sorted](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
@@ -877,6 +878,7 @@ Happy Coding! 🚀
 | [2595-number-of-even-and-odd-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
