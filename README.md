@@ -208,6 +208,7 @@ Happy Coding! 🚀
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2679-sum-in-a-matrix](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -1211,6 +1212,7 @@ Happy Coding! 🚀
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
