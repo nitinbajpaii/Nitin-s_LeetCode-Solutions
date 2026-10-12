@@ -540,6 +540,7 @@ Happy Coding! 🚀
 | [0061-rotate-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0143-reorder-list/) | Medium |
