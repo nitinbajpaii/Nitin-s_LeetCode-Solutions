@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [1395-count-number-of-teams](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1463-cherry-pickup-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1030,6 +1031,7 @@ Happy Coding! 🚀
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1395-count-number-of-teams](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -1056,6 +1058,7 @@ Happy Coding! 🚀
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2679-sum-in-a-matrix](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
