@@ -8,6 +8,5 @@ class Solution {
             }
         }
         return arr;
-        
     }
 }
