@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/integer-to-roman">12. Integer to Roman</a></h2><h3>Medium</h3><hr><p>Seven different symbols represent Roman numerals with the following values:</p>
+<h2><a href="https://leetcode.com/problems/integer-to-roman/description/">12. Integer to Roman</a></h2><h3>Medium</h3><hr><p>Seven different symbols represent Roman numerals with the following values:</p>
 
 <table>
 	<thead>
