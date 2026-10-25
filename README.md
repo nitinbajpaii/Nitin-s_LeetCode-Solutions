@@ -396,6 +396,7 @@ Happy Coding! 🚀
 | [0342-power-of-four](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -667,6 +668,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
@@ -898,6 +900,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
