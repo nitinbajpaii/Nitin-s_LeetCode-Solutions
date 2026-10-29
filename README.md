@@ -1402,6 +1402,7 @@ Happy Coding! 🚀
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Longest Increasing Subsequence
