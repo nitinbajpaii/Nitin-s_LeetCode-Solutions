@@ -838,6 +838,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0856-score-of-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1054,6 +1055,7 @@ Happy Coding! 🚀
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -1203,6 +1205,7 @@ Happy Coding! 🚀
 | [0225-implement-stack-using-queues](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1466,4 +1469,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
