@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lemonade-change">890. Lemonade Change</a></h2><h3>Easy</h3><hr><p>At a lemonade stand, each lemonade costs <code>$5</code>. Customers are standing in a queue to buy from you and order one at a time (in the order specified by bills). Each customer will only buy one lemonade and pay with either a <code>$5</code>, <code>$10</code>, or <code>$20</code> bill. You must provide the correct change to each customer so that the net transaction is that the customer pays <code>$5</code>.</p>
+<h2><a href="https://leetcode.com/problems/lemonade-change">860. Lemonade Change</a></h2><h3>Easy</h3><hr><p>At a lemonade stand, each lemonade costs <code>$5</code>. Customers are standing in a queue to buy from you and order one at a time (in the order specified by bills). Each customer will only buy one lemonade and pay with either a <code>$5</code>, <code>$10</code>, or <code>$20</code> bill. You must provide the correct change to each customer so that the net transaction is that the customer pays <code>$5</code>.</p>
 
 <p>Note that you do not have any change in hand at first.</p>
 
