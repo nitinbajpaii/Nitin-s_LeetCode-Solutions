@@ -1473,4 +1473,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
