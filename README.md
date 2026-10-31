@@ -700,6 +700,7 @@ Happy Coding! 🚀
 | [0942-di-string-match](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -1041,6 +1042,7 @@ Happy Coding! 🚀
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1387-sort-integers-by-the-power-value](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1395-count-number-of-teams](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
@@ -1449,6 +1451,7 @@ Happy Coding! 🚀
 | [0583-delete-operation-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
