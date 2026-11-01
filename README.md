@@ -96,6 +96,7 @@ Happy Coding! 🚀
 | [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
@@ -399,6 +400,7 @@ Happy Coding! 🚀
 | [0367-valid-perfect-square](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
