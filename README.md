@@ -243,6 +243,7 @@ Happy Coding! 🚀
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3819-rotate-non-negative-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -465,6 +466,7 @@ Happy Coding! 🚀
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
