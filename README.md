@@ -717,6 +717,7 @@ Happy Coding! 🚀
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1629-slowest-key](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1629-slowest-key) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -851,6 +852,7 @@ Happy Coding! 🚀
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -1056,6 +1058,7 @@ Happy Coding! 🚀
 | [1463-cherry-pickup-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
