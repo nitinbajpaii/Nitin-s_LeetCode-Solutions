@@ -12,7 +12,7 @@ class Solution {
                 if(length>=l && length<=r && sum>0){
                     ans=Math.min(ans,sum);
                 }
-                if(length>=r){
+                if(length>r){
                     break;
                 }
             }
