@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0739-daily-temperatures](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
@@ -849,6 +850,7 @@ Happy Coding! 🚀
 | [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1071,6 +1073,7 @@ Happy Coding! 🚀
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0739-daily-temperatures](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
