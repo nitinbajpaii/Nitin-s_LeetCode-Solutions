@@ -552,6 +552,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0061-rotate-list) |
@@ -635,6 +636,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
@@ -1159,6 +1161,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1217,6 +1220,7 @@ Happy Coding! 🚀
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 ## Design
 | Problem Name | Difficulty |
@@ -1499,4 +1503,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0455-assign-cookies/) | Easy |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
