@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -425,6 +426,7 @@ Happy Coding! 🚀
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -1203,6 +1205,7 @@ Happy Coding! 🚀
 | [0525-contiguous-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -1236,6 +1239,7 @@ Happy Coding! 🚀
 | [0303-range-sum-query-immutable](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1506,6 +1510,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
