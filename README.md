@@ -357,6 +357,7 @@ Happy Coding! 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -762,6 +763,7 @@ Happy Coding! 🚀
 | [2785-sort-vowels-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
