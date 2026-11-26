@@ -466,6 +466,7 @@ Happy Coding! 🚀
 | [3227-vowels-game-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -948,6 +949,7 @@ Happy Coding! 🚀
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2679-sum-in-a-matrix](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
