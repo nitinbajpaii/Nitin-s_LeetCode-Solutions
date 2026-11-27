@@ -253,6 +253,7 @@ Happy Coding! 🚀
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
+| [3921-score-validator](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
@@ -775,6 +776,7 @@ Happy Coding! 🚀
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3894-traffic-signal-color](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3921-score-validator/) | Easy |
 | [3941-password-strength](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3941-password-strength/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -954,6 +956,7 @@ Happy Coding! 🚀
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3894-traffic-signal-color](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
 | Problem Name | Difficulty |
