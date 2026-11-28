@@ -486,6 +486,7 @@ Happy Coding! 🚀
 | [3895-count-digit-appearances](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 | [3945-digit-frequency-score](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1034,6 +1035,7 @@ Happy Coding! 🚀
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
